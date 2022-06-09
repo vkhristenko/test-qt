@@ -1,0 +1,5 @@
+/Users/vkhristenko/soft/test-qt/quick/build-Test-Qt_6_2_4_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/vkhristenko/soft/test-qt/quick/build-Test-Qt_6_2_4_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/vkhristenko/soft/test-qt/quick/build-Test-Qt_6_2_4_for_macOS-Debug/CMakeFiles/Test.dir
+/Users/vkhristenko/soft/test-qt/quick/build-Test-Qt_6_2_4_for_macOS-Debug/CMakeFiles/Test_autogen_timestamp_deps.dir
+/Users/vkhristenko/soft/test-qt/quick/build-Test-Qt_6_2_4_for_macOS-Debug/CMakeFiles/Test_autogen.dir

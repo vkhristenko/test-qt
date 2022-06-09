@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "/Users/vkhristenko/soft/test-qt/quick/build-Test-Qt_6_2_4_for_macOS-Debug/Test_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/vkhristenko/soft/test-qt/quick/build-Test-Qt_6_2_4_for_macOS-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/vkhristenko/soft/test-qt/quick/build-Test-Qt_6_2_4_for_macOS-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/vkhristenko/soft/test-qt/quick/Test",
+	"CMAKE_SOURCE_DIR" : "/Users/vkhristenko/soft/test-qt/quick/Test",
+	"INCLUDE_DIR" : "/Users/vkhristenko/soft/test-qt/quick/build-Test-Qt_6_2_4_for_macOS-Debug/Test_autogen/include",
+	"INPUTS" : [ "/Users/vkhristenko/soft/test-qt/quick/Test/main.qml" ],
+	"LOCK_FILE" : "/Users/vkhristenko/soft/test-qt/quick/build-Test-Qt_6_2_4_for_macOS-Debug/CMakeFiles/Test_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "/Users/vkhristenko/soft/qt-sdk/6.2.4/macos/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/vkhristenko/soft/test-qt/quick/build-Test-Qt_6_2_4_for_macOS-Debug/CMakeFiles/Test_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Users/vkhristenko/soft/test-qt/quick/Test/qml.qrc",
+	"VERBOSITY" : 0
+}

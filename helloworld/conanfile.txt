@@ -1,0 +1,11 @@
+[requires]
+openssl/1.1.1n
+qt/5.15.2@euro+dsecrieru/stable
+
+[generators]
+cmake
+cmake_find_package
+cmake_paths
+
+[imports]
+lib, *.so* -> ./lib
