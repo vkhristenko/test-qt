@@ -80,10 +80,7 @@ ApplicationWindow {
             border.width: 1
 
             Text {
-                text: {
-                    console.log(model.display)
-                    return model.display
-                }
+                text: model.display
                 anchors.centerIn: parent
             }
         }
