@@ -1,0 +1,18 @@
+[requires]
+openssl/1.1.1n
+qt/5.15.2@euro+dsecrieru/stable
+
+[options]
+qt:shared=True
+qt:qtdeclarative=True
+qt:qtquickcontrols=True
+qt:qtquickcontrols2=True
+qt:qtwebsockets=True
+
+[generators]
+cmake
+cmake_find_package
+cmake_paths
+
+[imports]
+lib, *.so* -> ./lib
