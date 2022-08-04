@@ -1,6 +1,7 @@
 build/
 build_*/
 build-*/
+.cache/
 
 *.swp
 *.swo
